@@ -1,0 +1,63 @@
+.img1{
+	height:100%;
+	width:100%;
+}
+.img2{
+	height:100%;
+	width: 100%;
+	padding-top: 13px;
+}
+.text1{
+	font-family: arial;
+	font-size: 33px;
+	color: white;
+}
+div ul li{
+	float: left;
+	font-size: 20px;
+	padding-right: 10px;
+	margin-left:20px;
+	color: white;
+}
+header{
+	background: orange;
+}
+.navbar1{
+	background: red;
+	color: white;
+	padding:5px;
+	font-size: 22px;
+}
+div div div div img{
+	height: 100px;
+}
+div div div div{
+	color: white;
+	background: skyblue;
+	font-size: 14px;
+}
+.fit-image{
+	width: 100%;
+}
+.section-2{
+	background: orange;
+}
+.image-3{
+	height: 460px;
+	width: 500px;
+}
+.image-4{
+	height: 460px;
+	width: 500px;
+	padding-top: 40px;
+}
+.section-3{
+	background: skyblue;
+}
+.section-3-1 , .section-3-2{
+	border: 6px orange solid;
+}
+.center-image{
+	height: 300px;
+	width: 100%;
+}
