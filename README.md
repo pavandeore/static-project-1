@@ -6,4 +6,4 @@ on the Git hub
 images will not be visible to you you can add it by creating images folder in the same directory of project and add images and
 change the name accordingly in the index.html
 
-live at https://pavandeore.github.io/static-project-1/ 
+<a href="https://paypal.me/pduser"><button>Paypal</button></a>
